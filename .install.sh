@@ -18,7 +18,7 @@ systemctl enable sshd
 systemctl enable avahi-daemon
 
 
-useradd -m kroozy
-usermod -aG wheel ermanno
+useradd -m kroos
+usermod -aG wheel kroos
 
 printf "\e[1;32mDone! Type exit, umount -a and reboot.\e[0m"
