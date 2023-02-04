@@ -7,7 +7,7 @@ After setting up the partition and pacstrp, when you chroot into the system, clo
 
 
 ```
-
 chomd +x arch_install.sh
-
 ```
+
+So you can run it.
