@@ -1,6 +1,13 @@
-# install
+# Easy Install for arch linux
 
-Fast and easy way to install Arch
+This is a scipt that you can clone.
 
 
-after Chroot into the system, clone this script into the dir
+After setting up the partition and pacstrp, when you chroot into the system, clone this script into the your local machine then don't for got to use 
+
+
+```
+
+chomd +x arch_install.sh
+
+```
