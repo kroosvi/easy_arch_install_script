@@ -1,1 +1,1 @@
-yay -S brave-bin spotify 
+yay -S spotify 
